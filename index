@@ -1,9 +1,24 @@
 <!DOCTYPE html>
 <html lang="es" class="scroll-smooth dark">
 <head>
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Imagine 3D - Impresión & Diseño 3D | Sebastian Molina</title>
+
+    <!-- Open Graph / WhatsApp Meta Tags -->
+    <meta property="og:title" content="IMAGINE 3D - Objetos Impresos">
+    <meta property="og:description" content="Transformamos tus ideas en realidad tridimensional. Diseños personalizados, figuras de coleccionismo, piezas mecánicas y regalos únicos impresos en 3D.">
+    <meta property="og:image" content="https://i.postimg.cc/sDXNdN4v/Whats-App-Image-2026-10-26-at-23-49-49.jpg">
+    <meta property="og:type" content="website">
+
+    <!-- Twitter Card Meta Tags (Opcional para compatibilidad con otras plataformas) -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="IMAGINE 3D - Objetos Impresos">
+    <meta name="twitter:description" content="Transformamos tus ideas en realidad tridimensional. Diseños personalizados, figuras de coleccionismo, piezas mecánicas y regalos únicos impresos en 3D.">
+    <meta name="twitter:image" content="https://i.postimg.cc/sDXNdN4v/Whats-App-Image-2026-10-26-at-23-49-49.jpg">
+
+
     <!-- Tailwind CSS CDN -->
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
